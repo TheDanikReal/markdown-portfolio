@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Cats
+* Food
+  * Pizza
+  * Cookies
+* Games
+  * Minecraft
+  * Roblox
+  * Clash royale
